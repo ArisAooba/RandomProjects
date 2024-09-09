@@ -1,4 +1,0 @@
-icones: pyside6-rcc nome_arquivo.qrc -o novo_nome_arquivo.py
-
-cod ui: pyside6-uic nome_arquivo.ui -o novo_nome_arquivo.py
-

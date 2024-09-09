@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>professor.png</file>
+    <file>grupo-white.png</file>
+    <file>plus-black.png</file>
+    <file>prova-white.png</file>
+    <file>turma-white.png</file>
+  </qresource>
+</RCC>
